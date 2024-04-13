@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jack1142/listof.link.git"
+    "url": "git+https://github.com/Jackenmen/listof.link.git"
   },
   "author": "Jakub Kuczys",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/jack1142/listof.link/issues"
+    "url": "https://github.com/Jackenmen/listof.link/issues"
   },
   "homepage": "https://listof.link",
   "devDependencies": {

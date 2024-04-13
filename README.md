@@ -14,4 +14,4 @@ Distributed under the Apache License 2.0. See ``LICENSE`` for more information.
 ---
 
 > Jakub Kuczys &nbsp;&middot;&nbsp;
-> GitHub [@jack1142](https://github.com/jack1142)
+> GitHub [@Jackenmen](https://github.com/Jackenmen)
